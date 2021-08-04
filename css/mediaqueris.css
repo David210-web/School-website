@@ -1,0 +1,61 @@
+
+@media screen and (max-width: 576px) { }
+
+
+@media screen and (max-width: 768px) {
+    #hero .contacts {
+        display: none;
+    }
+
+    footer .email input[type="submit"]{
+        width: 25%;
+        font-size: 1.2rem;
+        padding: 10px;
+    }
+
+    footer .media-footer li a{
+        font-size: 2.2rem;
+        padding: 5px 10px;
+        background-color: rgb(59, 58, 58);
+        border-radius: 10px;
+        color: white;
+    }
+
+    footer .media-footer li{
+        margin: 0 5px;
+    }
+
+    /* ---------about--------- */
+    #ABOUT #banner .container .row, #COURSES #banner .container .row, #INSTRUCTORS #banner .container .row, #BLOG #banner .container .row. #CONTACT #banner .container .row{
+        height: 250px;
+
+    }
+
+ }
+
+
+
+@media screen and (max-width: 992px) {
+    .popular .container .row .col-12{
+        margin: 15px 0;
+    }
+
+    .courses .container .row .col-12{
+        margin: 15px 0;
+    }
+
+    .teachers-container .container .row .col-12{
+        margin: 25px 0;
+    }
+
+    
+
+    
+    
+  }
+
+
+@media screen and  (max-width: 1200px) {  }
+
+@media screen and  (max-width: 1400px) {
+} 
